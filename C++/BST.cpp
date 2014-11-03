@@ -8,9 +8,6 @@ insert(x)
 inorder()
 */
 
-/*
-1. Missing typedef for BinaryNode
-*/
 #include<iostream>
 
 template<typename Comparable>
